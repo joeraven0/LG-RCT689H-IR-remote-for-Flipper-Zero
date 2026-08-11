@@ -34,17 +34,6 @@ Flipper Zero infrared remote file for controlling the **LG RCT689H** DVD/VHS rec
 3. On the Flipper Zero, open **Infrared → Saved remotes**.
 4. Select the file and test the signals with a clear line of sight to the device.
 
-## Reporting Issues or Additional Results
-
-Please open an issue or pull request and include:
-
-- the command that was tested,
-- whether it worked,
-- what the device did,
-- whether it worked in DVD or VHS/VCR mode.
-
-Reports can be used to correct commands, document model variations, or add missing functions.
-
 ## Technical Information
 
 - File format: Flipper Zero IR signals file, version 1

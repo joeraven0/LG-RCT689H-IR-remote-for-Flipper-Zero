@@ -7,7 +7,7 @@ Flipper Zero infrared remote file for controlling the **LG RCT689H** DVD/VHS rec
 
 ## File
 
-`LG_RCT689H_SAMSUNG32_TEST.ir`
+`LG_RCT689H_SAMSUNG32.ir`
 
 ## Commands
 
@@ -30,7 +30,7 @@ Flipper Zero infrared remote file for controlling the **LG RCT689H** DVD/VHS rec
 ## Installation on Flipper Zero
 
 1. Connect the Flipper Zero to your computer or open its microSD card.
-2. Copy `LG_RCT689H_SAMSUNG32_TEST.ir` to the `infrared` folder.
+2. Copy `LG_RCT689H_SAMSUNG32.ir` to the `infrared` folder.
 3. On the Flipper Zero, open **Infrared → Saved remotes**.
 4. Select the file and test the signals with a clear line of sight to the device.
 
